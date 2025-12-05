@@ -1,0 +1,6 @@
+@CRUDPacientes_HostAddress = http://localhost:5012
+
+GET {{CRUDPacientes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
