@@ -5,7 +5,7 @@
 
 Entity Framework Core
 
-SQL Server (o SQLite según corresponda)
+SQL Server 2022
 
 CORS habilitado para comunicar con el frontend
 
