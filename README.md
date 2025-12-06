@@ -26,11 +26,8 @@ y para visualizar el api vamos a https://localhost:8001/swagger/index.html
 * Cabe resaltar que es mala practica dehar las credenciales en el archivo appsettings.json
 * Pero para fines practicos y de aprendizaje lo dejaremos asi
 
-* En el archivo Properties/launchSettings.json
-* vamos a cambiar el puerto de esta manera lo pondremos "applicationUrl": "https://localhost:8002;http://localhost:5012",
-
 * Con esto ya tendriamos configurado
-
+* Ejecutamos el api
 
 
 
