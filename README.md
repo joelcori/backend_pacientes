@@ -9,6 +9,7 @@ SQL Server (o SQLite según corresponda)
 
 CORS habilitado para comunicar con el frontend
 
+
 📂 Instalación y ejecución
 1️ Clonar el repositorio
 
