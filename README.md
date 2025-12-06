@@ -13,7 +13,8 @@ CORS habilitado para comunicar con el frontend
 📂 Instalación y ejecución
 
 1️ Clonar el repositorio
-<img width="630" height="366" alt="image" src="https://github.com/user-attachments/assets/488a455f-ea4e-45cc-8cc1-e43fd898bee6" />
+<img width="683" height="393" alt="image" src="https://github.com/user-attachments/assets/badd249f-eac9-45b9-9cb4-084939ecb3b2" />
+
 
 git clone https://github.com/joelcori/backend_pacientes.git
 
