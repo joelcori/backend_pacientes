@@ -31,7 +31,7 @@ y para visualizar el api vamos a https://localhost:8001/swagger/index.html
 * Esto ya esta configurado en el archivo appsettings.json
 <img width="738" height="381" alt="image" src="https://github.com/user-attachments/assets/ca3b46d9-8233-4033-aadc-c1e6d28d68ce" />
 
-* Cabe resaltar que es mala practica dehar las credenciales en el archivo appsettings.json
+* Cabe resaltar que es mala practica dejar las credenciales en el archivo appsettings.json
 * Pero para fines practicos y de aprendizaje lo dejaremos asi
 
 * Con esto ya tendriamos configurado
