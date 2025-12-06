@@ -1,4 +1,4 @@
-﻿🖥️ Backend – .NET API Configuración para trabajar localmente
+﻿🖥️ Backend – ASP .NET CORE WEB API Configuración para trabajar localmente
 ✅ Tecnologías
 
 .NET 10
