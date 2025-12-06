@@ -16,8 +16,6 @@ CORS habilitado para comunicar con el frontend
 git clone https://github.com/joelcori/backend_pacientes.git
 
 2 Ejecutamos
-<img width="522" height="310" alt="image" src="https://github.com/user-attachments/assets/20aef585-515e-407e-9872-678fc6230ee6" />
-
 Se ejutara en el puerto https://localhost:8001/
 y para visualizar el api vamos a https://localhost:8001/swagger/index.html
 
