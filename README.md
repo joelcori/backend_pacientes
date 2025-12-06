@@ -9,12 +9,14 @@ SQL Server (o SQLite según corresponda)
 
 CORS habilitado para comunicar con el frontend
 
+
 📂 Instalación y ejecución
 1️ Clonar el repositorio
 
 git clone https://github.com/joelcori/backend_pacientes.git
 
 2 Ejecutamos
+<img width="78" height="27" alt="Captura de pantalla 2025-12-05 205109" src="https://github.com/user-attachments/assets/486b1cdf-e3b8-4794-9c3c-cc5e8b595bf2" />
 Se ejutara en el puerto https://localhost:8001/
 y para visualizar el api vamos a https://localhost:8001/swagger/index.html
 
